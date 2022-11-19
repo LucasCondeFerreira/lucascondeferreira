@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Conde
 
-[![Blog](https://img.shields.io/website?label=lucascondeferreira.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://lucascondeferreira.com)
+[![Blog](https://img.shields.io/website?label=condeconecta.vercel.app&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://lucascondeferreira.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/)](https://umurldeblog.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://umurldeblog.com)
 
